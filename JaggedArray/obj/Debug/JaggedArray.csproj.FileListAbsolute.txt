@@ -1,0 +1,7 @@
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\obj\Debug\JaggedArray.csprojAssemblyReference.cache
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Source\Repos\Studies\complete-csharp-masterclass\jaggedarray\JaggedArray\obj\Debug\JaggedArray.pdb
